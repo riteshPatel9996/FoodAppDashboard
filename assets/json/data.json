@@ -1,0 +1,124 @@
+{
+  "dashboardSliderContent": [
+    {
+      "id": "0",
+      "path": "assets/images/slider.png",
+      "heading": "Here affordability meets convenience",
+      "data": "because you deserve the best without\nbreaking the bank."
+    },
+    {
+      "id": "0",
+      "path": "assets/images/slider.png",
+      "heading": "Here affordability meets convenience",
+      "data": "because you deserve the best without\nbreaking the bank."
+    }
+  ],
+  "province": [
+    {
+      "image": "",
+      "title": "Select Province"
+    },
+    {
+      "image": "assets/images/province.png",
+      "title": "ON"
+    },
+    {
+      "image": "assets/images/province.png",
+      "title": "NS"
+    },
+    {
+      "image": "assets/images/province.png",
+      "title": "SK"
+    },
+    {
+      "image": "assets/images/province.png",
+      "title": "PE"
+    },
+    {
+      "image": "assets/images/province.png",
+      "title": "MB"
+    },
+    {
+      "image": "assets/images/province.png",
+      "title": "NB"
+    }
+  ],
+  "slot": [
+    {
+      "image": "",
+      "text": "Select Slot"
+    },
+    {
+      "image": "assets/images/ticket.png",
+      "text": "01"
+    },
+    {
+      "image": "assets/images/ticket.png",
+      "text": "02"
+    },
+    {
+      "image": "assets/images/ticket.png",
+      "text": "03"
+    },
+    {
+      "image": "assets/images/ticket.png",
+      "text": "04"
+    },
+    {
+      "image": "assets/images/ticket.png",
+      "text": "05"
+    },
+    {
+      "image": "assets/images/ticket.png",
+      "text": "06"
+    }
+  ],
+  "province&slotList": [
+    {
+      "name": "BC",
+      "slot": "20"
+    },
+    {
+      "name": "SK",
+      "slot": "20"
+    },
+    {
+      "name": "QC",
+      "slot": "20"
+    },
+    {
+      "name": "AB",
+      "slot": "20"
+    },
+    {
+      "name": "PE",
+      "slot": "20"
+    },
+    {
+      "name": "OT",
+      "slot": "20"
+    },
+    {
+      "name": "QC",
+      "slot": "20"
+    },
+    {
+      "name": "DB",
+      "slot": "20"
+    }
+  ],
+  "bannerImages": [
+    {
+      "id": "0",
+      "imagePath": "assets/images/banner1.jpg"
+    },
+    {
+      "id": "1",
+      "imagePath": "assets/images/banner2.jpg"
+    },
+    {
+      "id": "2",
+      "imagePath": "assets/images/banner3.jpg"
+    }
+  ]
+}
